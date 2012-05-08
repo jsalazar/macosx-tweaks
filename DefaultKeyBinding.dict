@@ -1,0 +1,21 @@
+{
+/* home */
+"\UF729"  = "moveToBeginningOfLine:";
+"$\UF729" = "moveToBeginningOfLineAndModifySelection:";
+
+/* Cmd-Left */
+"@\UF702"  = "moveToBeginningOfLine:";
+"$@\UF702" = "moveToBeginningOfLineAndModifySelection:";
+
+/* Cmd-Right */
+"@\UF703"  = "moveToEndOfLine:";
+"$@\UF703" = "moveToEndOfLineAndModifySelection:";
+
+/* end */
+"\UF72B"  = "moveToEndOfLine:";
+"$\UF72B" = "moveToEndOfLineAndModifySelection:";
+
+/* page up/down */
+"\UF72C"  = "pageUp:";
+"\UF72D"  = "pageDown:";
+}
